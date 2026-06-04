@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ENRAPT">
+  <defs>
+    <linearGradient id="favGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EECF81"></stop>
+      <stop offset="45%" stop-color="#C9A86A"></stop>
+      <stop offset="100%" stop-color="#9A7C32"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="#1B2A4A"></rect>
+  <g fill="url(#favGold)" transform="translate(20,0)">
+    <polygon points="120,112 392,112 352,160 80,160"></polygon>
+    <polygon points="80,232 352,232 352,280 80,280"></polygon>
+    <polygon points="80,352 352,352 392,400 120,400"></polygon>
+  </g>
+</svg>
