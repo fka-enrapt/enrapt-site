@@ -49,7 +49,7 @@ section{padding-block:clamp(56px,8vw,96px)}
 .hero-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);gap:clamp(28px,5vw,72px);align-items:center}
 .hero-copy{display:flex;flex-direction:column;gap:22px;min-width:0}
 .hero .lead{color:var(--on-navy)}
-.hero h1{font-size:clamp(38px,5.6vw,64px)}
+.hero h1{font-size:clamp(32px,4vw,46px)}
 .hero h1::after{content:"";display:block;width:82px;height:3px;margin-top:22px;background:linear-gradient(90deg,var(--gold-hi),var(--gold),var(--gold-lo))}
 .portrait{margin:0;position:relative;aspect-ratio:4/5;max-width:100%;border-radius:10px;overflow:hidden;box-shadow:0 24px 60px rgba(10,16,32,.35)}
 .portrait img{width:100%;height:100%;object-fit:cover}
